@@ -10,4 +10,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rvoitenko&show_icons=true&count_private=true" alt="GitHub Stats" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=rvoitenko.rvoitenko" alt="visitors"></p>
+![]https://api.visitorbadge.io/api/VisitorHit?user=rvoitenko&repo=rvoitenko&countColor=%237B1E7A
