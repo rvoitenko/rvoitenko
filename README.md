@@ -10,4 +10,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=rvoitenko&show_icons=true&count_private=true" alt="GitHub Stats" />
-![](https://api.visitorbadge.io/api/VisitorHit?user=rvoitenko&repo=rvoitenko&countColor=%237B1E7A)
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Frvoitenko%2Frvoitenko"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frvoitenko%2Frvoitenko&countColor=%23263759" /></a>
